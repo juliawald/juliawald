@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Julia Wald</h1>
-<h3 align="center">A passionate frontend developer from Los Angeles/New York</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=juliawald" alt="juliawald" /></a> </p>
+<h3 align="center">A passionate frontend developer from Los Angeles and New York!</h3>
 
 - 🔭 I just completed the Le Wagon web dev certificate! Check out my final project [HOST](https://github.com/zoevanp/HOST)
 
